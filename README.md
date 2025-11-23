@@ -7,10 +7,10 @@ Usually, I use the stack of React.js, Tailwind, Java and Spring Boot for web dev
 I'm currently working on java projects to learn more about it! <br>
 
 <h4>Tools:</h4>
-<li>
-  <ul>React.js</ul>
-  <ul>Java</ul>
-  <ul>Visual Studio Code</ul>
-  <ul>Spring Tool Suite</ul>
-  <ul>Tailwind</ul>
-</li>
+<ul>
+  <li>React.js</li>
+  <li>Java</li>
+  <li>Visual Studio Code</li>
+  <li>Spring Tool Suite</li>
+  <li>Tailwind</li>
+</ul>
