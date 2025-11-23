@@ -1,9 +1,10 @@
 ## Hello World! 🌍
 
 Hi, I'm Ram from PH <br>
-I Design and Build Applications especially on Web Development <br>
+I Design and Build Applications especially on Web Development. <br>
 Usually, I use the stack of React.js, Tailwind, Java and Spring Boot for web development. <br>
 
+Graduated with Bachelor of Science in Computer Science Degree. <br>
 I'm currently working on java projects to learn more about it! <br>
 
 <h4>Tools:</h4>
