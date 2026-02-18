@@ -11,6 +11,8 @@ I'm currently working on java projects to learn more about it! <br>
 <ul>
   <li>React.js</li>
   <li>Java</li>
+  <li>C#</li>
+  <li>Unity</li>
   <li>Visual Studio Code</li>
   <li>Spring Tool Suite</li>
   <li>Tailwind</li>
