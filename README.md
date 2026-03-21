@@ -1,54 +1,32 @@
-<h1 align="center">Hey, I'm Ram 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=140&section=header&text=Ram&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Philippines&descSize=16&descAlignY=65&descColor=c7d2fe" width="100%"/>
 
-<p align="center">
-  <em>Full-Stack Developer from the Philippines 🇵🇭</em><br/>
-  Building modern web apps with clean UI and solid backends.
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ramcoded&style=flat&color=4f46e5&label=views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramcoded&style=flat-square&color=6366f1" alt="Profile views" />
-</p>
+&thinsp;
 
----
+I design and build web applications — from pixel-perfect UIs to structured, scalable APIs.  
+B.S. Computer Science · specializing in full-stack web dev and OOP-based API architecture.
 
-## 🧑‍💻 About Me
+&thinsp;
 
-- 🎓 B.S. Computer Science graduate
-- 🌐 Specializing in **Web Development** & **API design with OOP**
-- ⚡ Currently building projects with **Next.js** and **Supabase**
-- 📍 Based in the Philippines
+**Stack**
 
----
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat&logo=tailwindcss&logoColor=38bdf8" />&nbsp;
+<img src="https://img.shields.io/badge/Supabase-1a1a1a?style=flat&logo=supabase&logoColor=3ecf8e" />&nbsp;
+<img src="https://img.shields.io/badge/Java-1a1a1a?style=flat&logo=openjdk&logoColor=f89820" />&nbsp;
+<img src="https://img.shields.io/badge/Spring_Boot-1a1a1a?style=flat&logo=springboot&logoColor=6db33f" />&nbsp;
+<img src="https://img.shields.io/badge/C%23-1a1a1a?style=flat&logo=c-sharp&logoColor=9b59b6" />
 
-## 🚀 Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-**Database & Cloud**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Languages & Tools**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+&thinsp;
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramcoded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramcoded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=6366f1&text_color=c7d2fe&bg_color=0d0d14" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramcoded&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0d0d14&text_color=c7d2fe&title_color=6366f1" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramcoded&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=90&section=footer" width="100%"/>
