@@ -1,32 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=140&section=header&text=Ram&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20Philippines&descSize=16&descAlignY=65&descColor=c7d2fe" width="100%"/>
+<div align="center">
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ramcoded&style=flat&color=4f46e5&label=views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:4f46e5&height=160&text=Ram&fontSize=68&fontColor=e0e7ff&fontAlign=50&fontAlignY=52&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Philippines&descSize=15&descColor=a5b4fc&descAlign=50&descAlignY=72" width="100%" />
 
-&thinsp;
+<br/>
 
-I design and build web applications — from pixel-perfect UIs to structured, scalable APIs.  
-B.S. Computer Science · specializing in full-stack web dev and OOP-based API architecture.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2600&pause=1000&color=818CF8&center=true&vCenter=true&width=480&lines=Next.js+%C2%B7+React+%C2%B7+Tailwind+CSS;Java+%C2%B7+Spring+Boot+%C2%B7+Supabase;Building+clean+UIs+and+solid+APIs" alt="typing" />
 
-&thinsp;
+<br/><br/>
 
-**Stack**
+</div>
 
-<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />&nbsp;
-<img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat&logo=tailwindcss&logoColor=38bdf8" />&nbsp;
-<img src="https://img.shields.io/badge/Supabase-1a1a1a?style=flat&logo=supabase&logoColor=3ecf8e" />&nbsp;
-<img src="https://img.shields.io/badge/Java-1a1a1a?style=flat&logo=openjdk&logoColor=f89820" />&nbsp;
-<img src="https://img.shields.io/badge/Spring_Boot-1a1a1a?style=flat&logo=springboot&logoColor=6db33f" />&nbsp;
-<img src="https://img.shields.io/badge/C%23-1a1a1a?style=flat&logo=c-sharp&logoColor=9b59b6" />
+<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=ramcoded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=818cf8&ring_color=4f46e5&bg_color=0d0d14&text_color=c7d2fe" />
 
-&thinsp;
+B.S. Computer Science &nbsp;·&nbsp; Philippines
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramcoded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=6366f1&text_color=c7d2fe&bg_color=0d0d14" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramcoded&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0d0d14&text_color=c7d2fe&title_color=6366f1" />
-</p>
+I design and build full-stack web applications —  
+clean interfaces on the front, structured OOP-based APIs on the back.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=90&section=footer" width="100%"/>
+Currently building with **Next.js**, **Supabase**, and **Spring Boot**.
+
+<br clear="right"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,java,spring,cs,vscode&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ramcoded&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&short_numbers=true&background=0d0d14&stroke=4f46e5&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=64748b&currStreakNum=e0e7ff&sideNums=e0e7ff" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0d0d1a&height=100&section=footer&reversal=false" width="100%" />
