@@ -47,31 +47,6 @@
 ║  ║  Project : BOLT — Real-time Team Productivity Platform       ║        ║
 ║  ║  Status  : [████████████████████░░░░░░] Building...          ║        ║
 ║  ╚══════════════════════════════════════════════════════════════╝        ║
-║                                                                          ║
-║  ghost@github:~$ ls skills/                                              ║
-║                                                                          ║
-║  next.js/    typescript/    supabase/    tailwind/    react/             ║
-║  postgresql/ git/           vercel/      recharts/    node.js/           ║
-║                                                                          ║
-║  ghost@github:~$ cat ai-stack.txt                                        ║
-║  ╔══════════════════════════════════════════════════════════════╗        ║
-║  ║   Claude AI (Anthropic)  — primary AI coding assistant   ║        ║
-║  ║   oh-my-claudecode (OMC) — multi-agent orchestration     ║        ║
-║  ║   Claude Code CLI        — agentic dev workflow          ║        ║
-║  ║                                                              ║        ║
-║  ║  "I don't just use AI — I orchestrate it."                  ║        ║
-║  ╚══════════════════════════════════════════════════════════════╝        ║
-║                                                                          ║
-║  ghost@github:~$ cat projects/bolt.txt                                   ║
-║                                                                          ║
-║  [BOLT] Real-time Team Dashboard & Time Tracking Platform             ║
-║  ├──  Clock in/out · daily records · analytics charts                ║
-║  ├──  Real-time team chat · typing indicators · read receipts        ║
-║  ├──  Live presence system · online/offline status                   ║
-║  ├──  Manager dashboard · schedule management · team overview        ║
-║  └──  Next.js · TypeScript · Supabase · Tailwind CSS · Recharts     ║
-║                                                                          ║
-║  ghost@github:~$ █                                                       ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 </div>
