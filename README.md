@@ -1,42 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:4f46e5&height=160&text=Ram&fontSize=68&fontColor=e0e7ff&fontAlign=50&fontAlignY=52&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Philippines&descSize=15&descColor=a5b4fc&descAlign=50&descAlignY=72" width="100%" />
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ●  ●  ●                  ghost@github: ~                               ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║          ▓▓▓▓                              ▓▓▓▓                         ║
+║         ▓▓▓▓▓▓                            ▓▓▓▓▓▓                        ║
+║        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                        ║
+║      ▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓                      ║
+║     ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓                     ║
+║    ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓                    ║
+║    ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓                    ║
+║    ▓░░░░▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓░░░░░░░▓                    ║
+║    ▓░░░░▓░░░░▓░░░░░░░░░░░░░░░░░░░░░░▓░░░░▓░░░░░░░▓                    ║
+║    ▓░░░░▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░▓▓▓▓▓▓░░░░░░░▓                    ║
+║    ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓                    ║
+║    ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓                    ║
+║    ▓░░░░▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓░░░░░░▓                    ║
+║     ▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓                     ║
+║      ▓░░░░▓▓░░░▓▓░░░▓▓░░░▓▓░░░▓▓░░░▓▓░░░▓▓░░░░▓                      ║
+║       ▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓                       ║
+║         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                        ║
+║                                                                          ║
+║  ghost@github:~$ whoami                                                  ║
+║  ramcoded                                                                ║
+║                                                                          ║
+║  ghost@github:~$ cat about.txt                                           ║
+║  ╔══════════════════════════════════════════════════════════════╗        ║
+║  ║  Name    : ramcoded                                          ║        ║
+║  ║  Role    : Full Stack Developer                              ║        ║
+║  ║  Degree  : BS Computer Science                               ║        ║
+║  ║  School  : Central Philippine University                     ║        ║
+║  ║  Project : BOLT — Real-time Team Productivity Platform       ║        ║
+║  ║  Status  : [████████████████████░░░░░░] Building...          ║        ║
+║  ╚══════════════════════════════════════════════════════════════╝        ║
+║                                                                          ║
+║  ghost@github:~$ ls skills/                                              ║
+║                                                                          ║
+║  next.js/    typescript/    supabase/    tailwind/    react/             ║
+║  postgresql/ git/           vercel/      recharts/    node.js/           ║
+║                                                                          ║
+║  ghost@github:~$ cat ai-stack.txt                                        ║
+║  ╔══════════════════════════════════════════════════════════════╗        ║
+║  ║  🤖  Claude AI (Anthropic)  — primary AI coding assistant   ║        ║
+║  ║  ⚡  oh-my-claudecode (OMC) — multi-agent orchestration     ║        ║
+║  ║  🔁  Claude Code CLI        — agentic dev workflow          ║        ║
+║  ║                                                              ║        ║
+║  ║  "I don't just use AI — I orchestrate it."                  ║        ║
+║  ╚══════════════════════════════════════════════════════════════╝        ║
+║                                                                          ║
+║  ghost@github:~$ cat projects/bolt.txt                                   ║
+║                                                                          ║
+║  [⚡ BOLT] Real-time Team Dashboard & Time Tracking Platform             ║
+║  ├── 🕐  Clock in/out · daily records · analytics charts                ║
+║  ├── 💬  Real-time team chat · typing indicators · read receipts        ║
+║  ├── 👥  Live presence system · online/offline status                   ║
+║  ├── 📅  Manager dashboard · schedule management · team overview        ║
+║  └── 🔧  Next.js · TypeScript · Supabase · Tailwind CSS · Recharts     ║
+║                                                                          ║
+║  ghost@github:~$ █                                                       ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2600&pause=1000&color=818CF8&center=true&vCenter=true&width=480&lines=Next.js+%C2%B7+React+%C2%B7+Tailwind+CSS;Java+%C2%B7+Spring+Boot+%C2%B7+Supabase;Building+clean+UIs+and+solid+APIs" alt="typing" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br/><br/>
+<br/>
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code_CLI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+![oh-my-claudecode](https://img.shields.io/badge/oh--my--claudecode-9B59B6?style=for-the-badge&logoColor=white)
+
+<br/>
+
+![ramcoded's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramcoded&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9b59b6&icon_color=9b59b6&text_color=c0c0c0)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramcoded&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9b59b6&text_color=c0c0c0)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ramcoded&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6)
+
+<br/>
+
+```
+ghost@github:~$ cat contact.txt
+┌──────────────────────────────────────────────────────┐
+│  📧  roymarven9@gmail.com                            │
+│  🐙  github.com/ramcoded                            │
+│  ⚡  Currently building BOLT                        │
+└──────────────────────────────────────────────────────┘
+```
 
 </div>
-
-<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=ramcoded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&icon_color=818cf8&ring_color=4f46e5&bg_color=0d0d14&text_color=c7d2fe" />
-
-B.S. Computer Science &nbsp;·&nbsp; Philippines
-
-I design and build full-stack web applications —  
-clean interfaces on the front, structured OOP-based APIs on the back.
-
-Currently building with **Next.js**, **Supabase**, and **Spring Boot**.
-
-<br clear="right"/>
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,java,spring,cs,vscode&theme=dark&perline=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ramcoded&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&short_numbers=true&background=0d0d14&stroke=4f46e5&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=64748b&currStreakNum=e0e7ff&sideNums=e0e7ff" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0d0d1a&height=100&section=footer&reversal=false" width="100%" />
