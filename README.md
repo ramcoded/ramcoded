@@ -64,7 +64,7 @@
 ║                                                                          ║
 ║  ghost@github:~$ cat projects/bolt.txt                                   ║
 ║                                                                          ║
-║  [⚡ BOLT] Real-time Team Dashboard & Time Tracking Platform             ║
+║  [BOLT] Real-time Team Dashboard & Time Tracking Platform             ║
 ║  ├──  Clock in/out · daily records · analytics charts                ║
 ║  ├──  Real-time team chat · typing indicators · read receipts        ║
 ║  ├──  Live presence system · online/offline status                   ║
