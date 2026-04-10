@@ -1,53 +1,75 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=140&section=header&text=Roy%20Marven%20Miranda&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Agentic%20Systems&descSize=15&descAlignY=78&descColor=ffffffcc" />
+
+<br/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=111111&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ram+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+Agentic+Systems" alt="Typing SVG" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ram-portfolio-teal.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roymarven9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramcoded)
+
+</div>
 
 <br/>
 
-<p>CS grad from the Philippines. I build full-stack web apps and AI-powered systems.<br/>
-Focused on LLMs, multi-agent workflows, and shipping things that actually work.</p>
+## About
+
+CS grad from Iloilo, Philippines. I build full-stack web apps and AI-powered systems — from REST APIs and dashboards to multi-agent workflows and RAG pipelines. Currently focused on shipping useful things with LLMs and modern web tech.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-ram--portfolio--teal.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://ram-portfolio-teal.vercel.app)
+## Tech Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,java,py,react,nextjs,tailwind,spring,fastapi,nodejs,postgres,supabase,git&perline=7)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+**AI & Agents** &nbsp;·&nbsp; Claude AI (Anthropic API) &nbsp;·&nbsp; OpenAI API &nbsp;·&nbsp; Multi-Agent Orchestration &nbsp;·&nbsp; RAG Pipelines &nbsp;·&nbsp; Prompt Engineering
+
+<br/>
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ramcoded/bolt-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramcoded&repo=bolt-app&hide_border=true&bg_color=f6f8fa&title_color=3178C6&icon_color=3178C6&text_color=1f2328" />
+</a>
 &nbsp;
-[![Email](https://img.shields.io/badge/-roymarven9@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roymarven9@gmail.com)
+<a href="https://github.com/ramcoded/fruitshop-ram">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramcoded&repo=fruitshop-ram&hide_border=true&bg_color=f6f8fa&title_color=3178C6&icon_color=3178C6&text_color=1f2328" />
+</a>
 
 </div>
 
 <br/>
 
----
-
-**Tech**
-
-```
-Frontend   →  TypeScript · React · Next.js · Tailwind CSS
-Backend    →  Java / Spring Boot · Python / FastAPI · Node.js / Express
-Database   →  PostgreSQL · MySQL · Supabase
-AI         →  Anthropic API · OpenAI API · LLMs · RAG · Multi-Agent Systems
-```
-
----
-
-**Projects**
-
-**[BOLT](https://github.com/ramcoded/bolt-app)** — Real-time team productivity platform  
-Time tracking, live presence, messaging, role-based access · *Next.js · Supabase · TypeScript*
-
-**[FruitShop](https://github.com/ramcoded/fruitshop-ram)** — Fruit inventory admin panel  
-JWT auth, full CRUD, clean dashboard UI · *Spring Boot · Next.js · Tailwind*
-
----
-
-**Background**
-
-Web Developer Intern · Dept. of Budget and Management *(Feb – May 2025)*  
-BS Computer Science · Central Philippine University *(2021 – 2025)*  
-Thesis: *Unified Contextual Alt-Text Generation with NLP and Vision Models*
-
----
+## GitHub Stats
 
 <div align="center">
-<sub>Drawing · Guitar · Video games · Always learning something new</sub>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ramcoded&hide_border=true&background=f6f8fa&ring=3178C6&fire=3178C6&currStreakLabel=3178C6&sideLabels=555555&dates=555555&currStreakNum=111111&sideNums=111111" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ramcoded&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=3178C6&icon_color=3178C6&text_color=555555&hide=contribs" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramcoded&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=3178C6&text_color=555555" />
+
 </div>
+
+<br/>
+
+## Background
+
+- 🏢 &nbsp;**Web Developer Intern** · Department of Budget and Management *(Feb – May 2025)*
+- 🎓 &nbsp;**BS Computer Science** · Central Philippine University *(2021 – 2025)*
+- 📄 &nbsp;Thesis: *Unified Contextual Alt-Text Generation with NLP and Vision Models*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=100&section=footer" />
