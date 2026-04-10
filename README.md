@@ -1,55 +1,53 @@
 <div align="center">
 
-# Roy Marven Miranda
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=111111&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ram+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+Agentic+Systems" alt="Typing SVG" />
 
-**Full-Stack Developer · AI & Agentic Systems**
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ram--portfolio--teal.vercel.app-black?style=flat&logo=vercel)](https://ram-portfolio-teal.vercel.app)
-[![Email](https://img.shields.io/badge/Email-roymarven9@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:roymarven9@gmail.com)
+<p>CS grad from the Philippines. I build full-stack web apps and AI-powered systems.<br/>
+Focused on LLMs, multi-agent workflows, and shipping things that actually work.</p>
 
-</div>
+<br/>
 
----
-
-CS graduate building full-stack web apps with a deep focus on AI-powered systems and agentic workflows. Experienced with LLMs, multi-agent orchestration, RAG pipelines, and integrating AI into real products.
-
----
-
-### Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,py,react,nextjs,tailwind,spring,fastapi,nodejs,postgres,mysql,supabase,git,linux&perline=8)](https://skillicons.dev)
+[![Portfolio](https://img.shields.io/badge/-ram--portfolio--teal.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://ram-portfolio-teal.vercel.app)
+&nbsp;
+[![Email](https://img.shields.io/badge/-roymarven9@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roymarven9@gmail.com)
 
 </div>
 
-**AI** — Claude AI (Anthropic API) · OpenAI API · LLMs · Prompt Engineering · Multi-Agent Orchestration · RAG · Tool-Use Patterns
+<br/>
 
 ---
 
-### Projects
+**Tech**
 
-| | Project | Stack |
-|---|---|---|
-| 🔩 | [**BOLT**](https://github.com/ramcoded/bolt-app) — Real-time team productivity platform with time tracking, live presence, messaging, and role-based access | Next.js · Supabase · TypeScript |
-| 🍓 | [**FruitShop**](https://github.com/ramcoded/fruitshop-ram) — Fruit inventory admin panel with JWT auth and full CRUD dashboard | Spring Boot · Next.js · Tailwind |
+```
+Frontend   →  TypeScript · React · Next.js · Tailwind CSS
+Backend    →  Java / Spring Boot · Python / FastAPI · Node.js / Express
+Database   →  PostgreSQL · MySQL · Supabase
+AI         →  Anthropic API · OpenAI API · LLMs · RAG · Multi-Agent Systems
+```
 
 ---
 
-### Experience
+**Projects**
 
-**Web Developer Intern** · Department of Budget and Management *(Feb – May 2025)*
-Built React UIs and Spring Boot APIs for internal government budget tools.
+**[BOLT](https://github.com/ramcoded/bolt-app)** — Real-time team productivity platform  
+Time tracking, live presence, messaging, role-based access · *Next.js · Supabase · TypeScript*
 
-**BS Computer Science** · Central Philippine University *(2021 – 2025)*
-Thesis: *Unified Contextual Alt-Text Generation Framework with NLP and Vision Models*
+**[FruitShop](https://github.com/ramcoded/fruitshop-ram)** — Fruit inventory admin panel  
+JWT auth, full CRUD, clean dashboard UI · *Spring Boot · Next.js · Tailwind*
+
+---
+
+**Background**
+
+Web Developer Intern · Dept. of Budget and Management *(Feb – May 2025)*  
+BS Computer Science · Central Philippine University *(2021 – 2025)*  
+Thesis: *Unified Contextual Alt-Text Generation with NLP and Vision Models*
 
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramcoded&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=3178C6&hide=contribs)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramcoded&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555)
-
+<sub>Drawing · Guitar · Video games · Always learning something new</sub>
 </div>
