@@ -31,6 +31,9 @@ Efficient, plan-oriented, and creative. Deeply passionate about Generative AI an
 **[BOLT](https://github.com/ramcoded/bolt-app)** `Next.js 16` `TypeScript` `Supabase` `Tailwind` `Recharts`
 Real-time team productivity platform combining time tracking, task management, live presence, and messaging. Features Supabase Realtime for instant updates, role-based access (manager/member) with Row Level Security, leave/overtime approval workflows, and CSV/PDF export. Built with an agentic workflow powered by Claude Code.
 
+**[AI Research Assistant](https://github.com/ramcoded/ai-research-assistant)** `Python` `Anthropic API` `Multi-Agent`
+Multi-agent research pipeline that turns any topic into a cited report. Planner, Searcher, Synthesizer, and Writer agents coordinate via Claude to deliver structured markdown reports with live web search.
+
 **[FruitShop](https://github.com/ramcoded/fruitshop-ram)** `Spring Boot` `Next.js` `Tailwind` `JWT`
 Fruit inventory admin panel with JWT authentication, full CRUD operations, dashboard stats, and a white/pink grocery-inspired UI.
 
